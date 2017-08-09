@@ -1,0 +1,3 @@
+[submodule "Xoptfoil"]
+	path = Xoptfoil
+	url = https://github.com/montagdude/Xoptfoil
